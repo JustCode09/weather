@@ -11,7 +11,7 @@
   --white-color: #fff;
 }
 body {
-  background-color: #e0eefa;
+  background-color: #aed1ef;
 }
 .pc {
   width: 398px;
@@ -36,7 +36,7 @@ nav {
   height: 60px;
   border-radius: 40px;
   border: 2px solid var(--white-color);
-  background-color: var(--font-color-main);
+  background-color: #0e3638;
 }
 nav ul {
   display: flex;
@@ -83,7 +83,7 @@ h3 {
 }
 .search input {
   width: 85%;
-  padding: 10px;
+  padding: 14px;
   font-size: 15px;
   color: var(--font-color-main);
   border: none;
